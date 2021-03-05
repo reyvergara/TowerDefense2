@@ -7,4 +7,6 @@ Iteration 1
   
 Iteration 2
 -------------
-- TBA
+- "Landmass" and "Water" plugins must be used to view the water used
+- main_map.umap contains the actual map
+- M_landscape.uasset contains the materials/texture for the appearance of the landscape
