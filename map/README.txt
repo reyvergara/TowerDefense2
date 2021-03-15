@@ -8,5 +8,6 @@ Iteration 1
 Iteration 2
 -------------
 - "Landmass" and "Water" plugins must be used to view the water used
-- main_map.umap contains the actual map
-- M_landscape.uasset contains the materials/texture for the appearance of the landscape
+- 'main_map.umap' contains the actual map
+- 'M_landscape.uasset' contains the materials/texture for the appearance of the landscape
+- All meshes, including the material 'M_landscape.uasset', are in the Assets folder which must be included in contents
