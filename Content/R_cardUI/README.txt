@@ -1,2 +1,2 @@
-Card image assets do not belong to us. We do not own Pokemon, Slay the Spire, Yugi-oh, Rider-Waite, Magic the Gathering, or Loteria Don Clemente.
+Card image assets do not belong to us. We do not own Pokemon, Slay the Spire, Yu-Gi-oh!, Rider-Waite, Magic the Gathering, or Loteria Don Clemente.
 We intend to use these assets to provide distict art only temporarily.
