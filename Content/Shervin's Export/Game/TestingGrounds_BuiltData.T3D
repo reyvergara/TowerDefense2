@@ -1,0 +1,107 @@
+Begin Object Class=/Script/Engine.MapBuildDataRegistry Name="TestingGrounds_BuiltData"
+   Begin Object Class=/Script/Engine.LightMapTexture2D Name="HQ_Lightmap0_1"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.LightMapTexture2D Name="HQ_Lightmap0_2"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.LightMapTexture2D Name="LQ_Lightmap_0_1"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.LightMapTexture2D Name="LQ_Lightmap_0_2"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.TextureCube Name="NewReflectionComponentTexture29670E4F43E18DAF451DD4AFBCD1CFB2"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.ShadowMapTexture2D Name="ShadowMapTexture2D_0"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.ShadowMapTexture2D Name="ShadowMapTexture2D_1"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Name="HQ_Lightmap0_1"
+      Begin Object Name="AssetImportData"
+      End Object
+      ImportedSize=(X=256,Y=256)
+      Source=(Id=FBBA0F9540A89B86570483B812678DE1,SizeX=256,SizeY=256,NumSlices=1,NumMips=9,Format=TSF_BGRA8,LayerFormat=(TSF_BGRA8))
+      AssetImportData=AssetImportData'"AssetImportData"'
+      bForcePVRTC4=True
+      MipGenSettings=TMGS_LeaveExistingMips
+      SRGB=False
+   End Object
+   Begin Object Name="HQ_Lightmap0_2"
+      Begin Object Name="AssetImportData"
+      End Object
+      ImportedSize=(X=64,Y=64)
+      Source=(Id=E249BEF64AC6B8DBBE3B92B530CBB040,SizeX=64,SizeY=64,NumSlices=1,NumMips=7,Format=TSF_BGRA8,LayerFormat=(TSF_BGRA8))
+      AssetImportData=AssetImportData'"AssetImportData"'
+      bForcePVRTC4=True
+      MipGenSettings=TMGS_LeaveExistingMips
+      SRGB=False
+   End Object
+   Begin Object Name="LQ_Lightmap_0_1"
+      Begin Object Name="AssetImportData"
+      End Object
+      ImportedSize=(X=256,Y=256)
+      Source=(Id=C80C47704C8FE938FD70CE9239C952DC,SizeX=256,SizeY=256,NumSlices=1,NumMips=9,Format=TSF_BGRA8,LayerFormat=(TSF_BGRA8))
+      AssetImportData=AssetImportData'"AssetImportData"'
+      CompressionNoAlpha=True
+      bForcePVRTC4=True
+      MipGenSettings=TMGS_LeaveExistingMips
+      SRGB=False
+   End Object
+   Begin Object Name="LQ_Lightmap_0_2"
+      Begin Object Name="AssetImportData"
+      End Object
+      ImportedSize=(X=64,Y=64)
+      Source=(Id=6A8599794E5F019377545AA4820319CB,SizeX=64,SizeY=64,NumSlices=1,NumMips=7,Format=TSF_BGRA8,LayerFormat=(TSF_BGRA8))
+      AssetImportData=AssetImportData'"AssetImportData"'
+      CompressionNoAlpha=True
+      bForcePVRTC4=True
+      MipGenSettings=TMGS_LeaveExistingMips
+      SRGB=False
+   End Object
+   Begin Object Name="NewReflectionComponentTexture29670E4F43E18DAF451DD4AFBCD1CFB2"
+      Begin Object Name="AssetImportData"
+      End Object
+      Source=(Id=2E1C47C04697D9FF6BB16CA0C875A72A,SizeX=128,SizeY=128,NumSlices=6,NumMips=8,Format=TSF_BGRA8,LayerFormat=(TSF_BGRA8))
+      AssetImportData=AssetImportData'"AssetImportData"'
+      CompressionNone=True
+      CompressionQuality=TCQ_Highest
+      MipGenSettings=TMGS_LeaveExistingMips
+      CompressionSettings=TC_ReflectionCapture
+      Filter=TF_Trilinear
+      SRGB=False
+   End Object
+   Begin Object Name="ShadowMapTexture2D_0"
+      Begin Object Name="AssetImportData"
+      End Object
+      ShadowmapFlags=SMF_Streamed
+      ImportedSize=(X=256,Y=128)
+      Source=(Id=D97AAF4B499077A3FD7E2C81135384A7,SizeX=256,SizeY=128,NumSlices=1,NumMips=9,Format=TSF_G8,LayerFormat=(TSF_G8))
+      AssetImportData=AssetImportData'"AssetImportData"'
+      CompressionNone=True
+      MipGenSettings=TMGS_LeaveExistingMips
+      SRGB=False
+   End Object
+   Begin Object Name="ShadowMapTexture2D_1"
+      Begin Object Name="AssetImportData"
+      End Object
+      ShadowmapFlags=SMF_Streamed
+      ImportedSize=(X=32,Y=32)
+      Source=(Id=C5CC0BF8448EDB5A3D4C0E8838A8D6FB,SizeX=32,SizeY=32,NumSlices=1,NumMips=6,Format=TSF_G8,LayerFormat=(TSF_G8))
+      AssetImportData=AssetImportData'"AssetImportData"'
+      CompressionNone=True
+      MipGenSettings=TMGS_LeaveExistingMips
+      SRGB=False
+   End Object
+   LevelLightingQuality=Quality_Preview
+End Object
